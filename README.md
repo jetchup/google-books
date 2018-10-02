@@ -1,6 +1,7 @@
 # MyReads Project
 
 This site works as a library for books you want to read, are reading, or have read. It lets you search for predetermined words (explained below) to expand your library.
+Our objective was transforming a non-responsive, non-dynamic, buggy site to a fully responsive book-tracking app.
 
 
 ## Important
